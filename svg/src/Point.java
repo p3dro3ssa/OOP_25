@@ -1,6 +1,15 @@
 public class Point {
-    public double x;
-    public double y;
+    private double x;
+    private double y;
+
+    //getter
+    public double getX(){
+        return x;
+    }
+    //setter
+    public void setX(double x){
+        this.x=x;
+    }
     @Override
     public String toString(){
         return "("+x+" , "+y+")";
