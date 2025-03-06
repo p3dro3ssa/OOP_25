@@ -2,6 +2,11 @@ public class Point {
     private double x;
     private double y;
 
+    public Point(double x, double y){
+        this.x=x;
+        this.y=y;
+    }
+
     //getter
     public double getX(){
         return x;
@@ -9,6 +14,13 @@ public class Point {
     //setter
     public void setX(double x){
         this.x=x;
+    }
+    public double getY() {
+        return y;
+    }
+
+    public void setY(double y) {
+        this.y = y;
     }
     @Override
     public String toString(){
@@ -23,6 +35,9 @@ public class Point {
         x+=dx;
         this.y+=dy;
     }
+
+
+
     public Point translated(double dx, double dy)
     {
         Point newPoint = new Point();
