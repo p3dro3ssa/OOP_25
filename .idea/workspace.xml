@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f8d4f57d-a750-42e9-a9b8-4c70541aab20" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/OOP2_25/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP2_25/oop25v2" beforeDir="false" afterPath="$PROJECT_DIR$/OOP2_25/oop25v2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP2_25/svg/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP2_25/svg/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP2_25/svg/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP2_25/svg/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP2_25/svg/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP2_25/svg/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP2_25/svg/src/Point.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP2_25/svg/src/Polygon.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP2_25/svg/src/Segment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP2_25/svg/svg.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP_25" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop25v2" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2twsy7HjCShFJzuUKJ9K19sB7lm" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/student/programowanie_obiektowe&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f8d4f57d-a750-42e9-a9b8-4c70541aab20" name="Changes" comment="" />
+      <created>1741274723317</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1741274723317</updated>
+    </task>
+    <servers />
+  </component>
+</project>
